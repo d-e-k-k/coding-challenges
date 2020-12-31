@@ -2,14 +2,13 @@
 
 ## Intro
 * Each challenge is essentially finding a way to transform the given input to the output desired.
+</br>
 
-
----
 ### Steps to Repeat
 1. understand the problem (you want to change the input to the output) nothing more nothing less
 2. break solution down into steps of pseudocode then ask how for each step
 3. test each line to make sure they are doing what you expect them to do
---- 
+</br> 
 ### Tips
 
 * Pseudoode is the most important part.
@@ -28,7 +27,6 @@
 
 * Each problem can be taken to the next step by trying to understand the Big O of your solutions
 
-
 <details>
   <summary>What do tests do?</summary>
   
@@ -38,11 +36,11 @@
      * With some
      * Sub bullets
 </details>
-
+</br>
 
 ## Important methods
 
-### Javascript
+## Javascript
 
 <details>
   <summary>Terms and Explanations</summary>
@@ -118,8 +116,9 @@
      * With some
      * Sub bullets
 </details>
+</br>
 
-### Python
+## Python
 
 <details>
   <summary>Terms and Explanations</summary>
@@ -185,8 +184,7 @@
      * With some
      * Sub bullets
 </details>
-
-
+</br>
 
 ### Code Challenge Sites
 
@@ -195,6 +193,7 @@
 
 [1]: https://www.codewars.com/
 [2]: https://leetcode.com/
+</br>
 
 ### Resources
 
