@@ -9,6 +9,7 @@
 2. break solution down into steps of pseudocode then ask how for each step
 3. test each line to make sure they are doing what you expect them to do
 </br> 
+
 ### Tips
 
 * Pseudoode is the most important part.
