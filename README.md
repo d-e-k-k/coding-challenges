@@ -1,4 +1,4 @@
-# 3.0-coding-challenges
+# Coding Challenges
 
 ## Intro
 * Each challenge is essentially finding a way to transform the given input to the output desired.
@@ -81,11 +81,18 @@
 <details>
   <summary>Arrays</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  1. .sort()
+    * sorts arrays by values inside
+    * numbers need a helper function because they are sorted as strings
+      
+    ```javascript
+    let fruits = ["Banana", "Orange", "Apple", "Mango"];
+    // Apple, Banana, Mango, Orange
+
+    let points = [40, 100, 1, 5, 25, 10];
+    points.sort(function(a, b){return a - b});
+    // 1,5,10,25,40,100
+    ```
 </details>
 
 <details>
