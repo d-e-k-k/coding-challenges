@@ -41,7 +41,7 @@ Walk-throughs are debrief of how we thought about and tackled the problem as wel
     <li>
       <details>
       <summary>7kyu</summary>
-      <br>
+   
 
   - [Catergorize New Members](https://github.com/code-finesse/coding-challenges/code_wars/7kyu/categorize_new_member/categorize_new_member.md)
 
