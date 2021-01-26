@@ -1,7 +1,7 @@
 # Coding Challenges
 
 ## Welcome
-Coding Challenges are a great way to grow as a coder and problem solver. This repo contains two distinc sections to help you on your code challenge journey: **Challenge Walk-throughs** and **How to Approach Challanges** 
+Coding Challenges are a great way to grow as a coder and problem solver. This repo contains two distinct sections to help you on your code challenge journey: **Challenge Walk-throughs** and **How to Approach Challanges** 
 
 
 ### Why This Repo Exist?
