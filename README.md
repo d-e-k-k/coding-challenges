@@ -1,8 +1,87 @@
 # Coding Challenges
 
-## Intro
-* Each challenge is essentially finding a way to transform the given input to the output desired.
+## Welcome
+Coding Challenges are a great way to grow as a coder and problem solver. This repo contains two distinc sections to help you on your code challenge journey: **Challenge Walk-throughs** and **How to Approach Challanges** 
+
+
+### Why This Repo Exist?
+
+We are part of a daily coding challenge group consisting of coders from many levels. We want new coders to have a reference for how to approach challenges as well as a solutions repo to view if they could not make the live challenge. This is that....
+
+Feel free to join or discord server. Coding challenges are Monday-Friday 10:00am - 11:00am EST
+[Join Our Discord](https://discord.gg/qj4Tydm9)
+
+<details>
+<summary>A note on walk-throughs</summary>
+<br>
+Walk-throughs are debrief of how we thought about and tackled the problem as well as notes on bigO notation and optimization options. These solutions are what we can generate in a limited amount of time. They are most often not the most efficient possible solution. Those solutions can be found on the respective code challenge providers sight or you can add them and a summary to this repo! 
+</details>
+<br>
+
+
+## Challenge Walk-Throughs
+
+
+<details>
+<summary>Challenges</summary>
+<br>
+<ul>
+  <li>
+  <details>
+  <summary>Code Wars</summary>
+  <br>
+  <ul>
+    <li>
+      <details>
+      <summary>8kyu</summary>
+      <br>
+      None
+      </details>
+    </li>
+    <li>
+      <details>
+      <summary>7kyu</summary>
+      <br>
+
+  - [Catergorize New Members](https://github.com/code-finesse/coding-challenges/code_wars/7kyu/categorize_new_member/categorize_new_member.md)
+
+  - [Array Element Parity](https://github.com/code-finesse/coding-challenges/code_wars/7kyu/array_element_party/array_element_parity.md)
+
+
+      </details>
+    </li>
+    <li>
+      <details>
+      <summary>6kyu</summary>
+      <br>
+      None
+      </details>
+    </li>
+    <li>
+      <details>
+      <summary>5kyu</summary>
+      <br>
+      None
+      </details>
+    </li>
+    <li>
+      <details>
+      <summary>4kyu</summary>
+      <br>
+      None
+      </details>
+    </li>
+  </ul>
+
+  </details>
+  </li>
+</ul>
+
+</details>
 </br>
+
+
+## How to Approach Challanges
 
 ### Steps to Repeat
 1. understand the problem (you want to change the input to the output) nothing more nothing less
