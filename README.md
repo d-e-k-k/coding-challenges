@@ -43,9 +43,9 @@ Walk-throughs are debrief of how we thought about and tackled the problem as wel
       <summary>7kyu</summary>
    
 
-  - [Catergorize New Members](https://github.com/code-finesse/coding-challenges/code_wars/7kyu/categorize_new_member/categorize_new_member.md)
+  - [Catergorize New Members](https://github.com/code-finesse/coding-challenges/blob/main/completed_challenges/code_wars/7kyu/categorize_new_member/categorize_new_member.md)
 
-  - [Array Element Parity](https://github.com/code-finesse/coding-challenges/code_wars/7kyu/array_element_party/array_element_parity.md)
+  - [Array Element Parity](https://github.com/code-finesse/coding-challenges/blob/main/completed_challenges/code_wars/7kyu/array_element_party/array_element_parity.md)
 
 
       </details>
