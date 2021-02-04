@@ -53,9 +53,14 @@ Walk-throughs are debrief of how we thought about and tackled the problem as wel
     <li>
       <details>
       <summary>6kyu</summary>
-      <br>
-      None
-      </details>
+      
+  
+    - [Simple Pig Latin](https://github.com/code-finesse/coding-challenges/blob/main/completed_challenges/code_wars/6kyu/simple_pig_latin.md)
+  
+    - [Valid Parentheses](https://github.com/code-finesse/coding-challenges/blob/main/completed_challenges/code_wars/6kyu/valid_parantheses.md)
+  
+
+    </details>
     </li>
     <li>
       <details>
