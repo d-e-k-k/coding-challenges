@@ -55,9 +55,11 @@ Walk-throughs are debrief of how we thought about and tackled the problem as wel
       <summary>6kyu</summary>
       
   
-    - [Simple Pig Latin](https://github.com/code-finesse/coding-challenges/blob/main/completed_challenges/code_wars/6kyu/simple_pig_latin.md)
+    - [Simple Pig Latin](https://github.com/code-finesse/coding-challenges/blob/main/completed_challenges/code_wars/6kyu/simple_pig_latin/simple_pig_latin.md)
   
-    - [Valid Parentheses](https://github.com/code-finesse/coding-challenges/blob/main/completed_challenges/code_wars/6kyu/valid_parantheses.md)
+    - [Valid Parentheses](https://github.com/code-finesse/coding-challenges/blob/main/completed_challenges/code_wars/6kyu/valid_parantheses/valid_parantheses.md)
+
+    - [Look and Say Generator](https://github.com/code-finesse/coding-challenges/blob/main/completed_challenges/code_wars/6kyu/look_and_say_generator/look_and_say_generator.md)
   
 
     </details>
